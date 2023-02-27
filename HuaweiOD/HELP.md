@@ -38,3 +38,6 @@
 12. 单源最短路径（dijkstra算法）
 13. 最小生成树（Prim算法、Kruskal算法）
 14. 暴力枚举
+
+[华为OD机试（JAVA）真题22版](https://blog.csdn.net/qq_34465338/article/details/125137271)
+[华为OD机试真题目录 + 专栏介绍 + 刷题策略](https://fcqian.blog.csdn.net/article/details/127914382)
